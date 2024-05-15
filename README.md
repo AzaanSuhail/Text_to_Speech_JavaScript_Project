@@ -2,4 +2,4 @@ This project is able to convert the text into speech using the SpeechSynthesis A
 
 Live Project : 
 
-https://github.com/AzaanSuhail/Text_to_Speech_JavaScript_Project/assets/118841778/e9a4cd11-ed78-4ecd-b7e4-2e609e243bf6
+https://github.com/AzaanSuhail/Text_to_Speech_JavaScript_Project/assets/118841778/53b87327-cae6-4476-afc6-5dba6aab7a3e
