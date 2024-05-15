@@ -1,0 +1,1 @@
+This project is able to convert the text into speech using the SpeechSynthesis API of JavaScirpt.You can increase the playback speech accordingly either high or low, and can pause ,stop and resume the speech.
